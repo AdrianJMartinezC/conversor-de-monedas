@@ -2,7 +2,7 @@
 
 ![Logo del programa currency converter](https://github.com/AdrianJMartinezC/conversor-de-monedas/assets/162757382/b7a02ce6-7ec9-4072-b096-05ea18756b95)
 
-## Currency Converter##
+## Currency Converter ##
 
 **Currency Converter** es una aplicación que permite convertir divisas entre dólar estadounidense (USD),
 peso colombiano (COP), peso argentino (ARS) y real brasileño (BRL). La aplicación consume una API 
